@@ -38,6 +38,7 @@ function subImageMatch(img, subImg, optionsParam) {
                     // This means this is a new matching row, save these coordinates in the matchingTopRowStartX and Y
                     matchingTopRowStartX = x;
                     matchingTopRowStartY = y;
+                    //dax sua
                 }
 
                 matchingTopRowX++;
